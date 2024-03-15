@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moredebbs
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python for everyone on coursera
+- 🌱 I’m currently learning on SheCodes
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me moredebbs@gmail.com
 
